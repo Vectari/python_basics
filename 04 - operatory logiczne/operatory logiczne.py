@@ -8,3 +8,4 @@ b = 2
 c = 5
 print(c % 2 == 0)
 print(not c % 2 == 0)
+
