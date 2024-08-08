@@ -7,3 +7,7 @@ long_text = """to jest
   tekst"""
 
 print(long_text)
+
+text = f"test test test {long_text}"
+
+print(text)
